@@ -5,4 +5,4 @@ authors = ["Balen <barena.ekusuimii@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-netvars_derive = { git = "https://github.com/balenamiaa/netvars_derive.git", rev = "19f5123"}
+netvars_derive = { git = "https://github.com/cestef/netvars_derive.git" }
